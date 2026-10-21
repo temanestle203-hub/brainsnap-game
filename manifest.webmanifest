@@ -1,0 +1,21 @@
+{
+ "name": "BRAIN SNAP: Beat the Boss",
+ "short_name": "BRAIN SNAP",
+ "start_url": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0A0618",
+ "theme_color": "#0A0618",
+ "icons": [
+  {
+   "src": "icon180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
